@@ -1,0 +1,67 @@
+---
+title: "Mappeeksamen"
+author: "Sivert Jakobsen"
+date: "19 11 2020"
+output: html_document
+---
+# Deloppgave 1
+
+## Bakgrunn
+
+## Metode
+
+## Resultat
+
+## Diskusjon
+
+# Deloppgave 2
+
+## Bakgrunn
+
+## Metode
+
+## Resultat
+
+## Diskusjon
+
+# Deloppgave 3
+
+## Bakgrunn
+
+## Metode
+
+## Resultat
+
+## Diskusjon
+
+# Deloppgave 4
+
+## Bakgrunn
+
+## Metode
+
+## Resultat
+
+## Diskusjon
+
+# Deloppgave 5
+
+## Bakgrunn
+
+## Metode
+
+## Resultat
+
+## Diskusjon
+
+# Deloppgave 6
+
+## Bakgrunn
+
+## Metode
+
+## Resultat
+
+## Diskusjon
+
+# Deloppgave 7
